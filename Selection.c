@@ -1,8 +1,3 @@
-﻿/*
-Title		: Selection Sort			Date of performance :	10/01/2018
-Description	: To perform Selection sorting 
-Student name: Shaikh Shadab Ali		Roll No	:	17DCO74
-*/
 		
 		#include<stdio.h>   //for using functions like printf
 
