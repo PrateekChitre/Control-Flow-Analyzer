@@ -30,27 +30,4 @@
 			{
 				printf("%d\n",a[i]);		//finally printing the 										//sorted array
 			}
-		}
-		
-		/*
-			Enter the size of an array5
-			Enter the elements one by one5
-			Enter the elements one by one4
-			Enter the elements one by one3
-			Enter the elements one by one2
-			Enter the elements one by one1
-			Sorted Array
-			1
-			2
-			3
-			4
-			5
-
-
-			------------------
-			(program exited with code: 0)
-			Press return to continue  
-		 */
-			
-				
-			
+		}			
